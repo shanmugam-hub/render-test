@@ -51,7 +51,7 @@ public class RedisConfig {
     @Bean
     @Primary
     public LettuceConnectionFactory redisConnectionFactory(
-            ClientResources clientResources, @Value("${SPRING_REDIS_URL}") String redisUrlValue)
+            ClientResources clientResources, @Value("${spring.data.redis.url}") String redisUrlValue)
             throws URISyntaxException {
 
         URI redisUri = new URI(redisUrlValue);
