@@ -1,0 +1,16 @@
+com\twelvefactor\examples\twelvefactornotepad\repository\NoteRepository.class
+com\twelvefactor\examples\twelvefactornotepad\config\RedisMessageSubscriber.class
+com\twelvefactor\examples\twelvefactornotepad\config\RedisConfig.class
+com\twelvefactor\examples\twelvefactornotepad\dto\WebSocketMessage.class
+com\twelvefactor\examples\twelvefactornotepad\controller\SessionTestController.class
+com\twelvefactor\examples\twelvefactornotepad\service\notificationservices\StompNotificationService.class
+com\twelvefactor\examples\twelvefactornotepad\config\WebSocketConfig.class
+com\twelvefactor\examples\twelvefactornotepad\service\notificationservices\RedisNotificationService.class
+com\twelvefactor\examples\twelvefactornotepad\TwelvefactorNotepadApplication.class
+com\twelvefactor\examples\twelvefactornotepad\service\NotificationService.class
+com\twelvefactor\examples\twelvefactornotepad\service\NoteService.class
+com\twelvefactor\examples\twelvefactornotepad\exception\RestExceptionHandler.class
+com\twelvefactor\examples\twelvefactornotepad\controller\NoteController.class
+com\twelvefactor\examples\twelvefactornotepad\exception\NoteNotFoundException.class
+com\twelvefactor\examples\twelvefactornotepad\domain\Note.class
+com\twelvefactor\examples\twelvefactornotepad\config\OpenApiConfig.class
